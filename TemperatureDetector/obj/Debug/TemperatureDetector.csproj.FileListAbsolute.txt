@@ -1,1 +1,10 @@
 c:\users\denis\documents\visual studio 2012\Projects\TemperatureDetector\TemperatureDetector\bin\Debug\TemperatureDetector.exe.config
+C:\git\TemperatureDetector\TemperatureDetector\bin\Debug\TemperatureDetector.exe.config
+C:\git\TemperatureDetector\TemperatureDetector\bin\Debug\TemperatureDetector.exe
+C:\git\TemperatureDetector\TemperatureDetector\bin\Debug\TemperatureDetector.pdb
+C:\git\TemperatureDetector\TemperatureDetector\obj\Debug\TemperatureDetector.csprojResolveAssemblyReference.cache
+C:\git\TemperatureDetector\TemperatureDetector\obj\Debug\TemperatureDetector.Properties.Resources.resources
+C:\git\TemperatureDetector\TemperatureDetector\obj\Debug\TemperatureDetector.csproj.GenerateResource.Cache
+C:\git\TemperatureDetector\TemperatureDetector\obj\Debug\TemperatureDetector.exe
+C:\git\TemperatureDetector\TemperatureDetector\obj\Debug\TemperatureDetector.pdb
+C:\git\TemperatureDetector\TemperatureDetector\obj\Debug\TemperatureDetector.TemperatureTester.resources
