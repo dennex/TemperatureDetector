@@ -71,22 +71,24 @@ namespace TemperatureDetector
             }
         }
 
-        
         // methods
+        // this converts Celsius to Farenheit with the +32
         public double ConvertCToF(double temperatureC)
         {
             return temperatureC * 9.0 / 5.0 + 32;
         }
+        // this converts Celsius to Farenheit as incremental temperature
         public double ConvertCToFNoOffset(double temperatureC)
         {// this is to see how much 1C is in F
             return temperatureC * 9.0 / 5.0;
         }
 
+        // this converts Farenheit to Celsius with the -32
         public double ConvertFToC(double temperatureF)
         {
             return (temperatureF -32)/9.0*5.0;
         }
-
+        // this converts Farenheits to Celsius as incremental temperature
         public double ConvertFToCNoOffset(double temperatureF)
         {// this is if we want to see how much 1F is in C
             return (temperatureF) / 9.0 * 5.0;
